@@ -1,0 +1,14 @@
+{
+    "name": {
+        "en": "test",
+        "ar": "test"
+    },
+    "description": {
+        "en": "",
+        "ar": ""
+    },
+    "author_email": "makanaksocial@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/makanaksocial-gif/tw-test",
+    "components": []
+}
